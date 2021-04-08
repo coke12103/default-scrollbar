@@ -2,6 +2,8 @@
 
 default-scrollbarをUserScript化してドメインリストにあるドメインだけでしか動かないようにしたもの。
 
+サイトのCSSとかで上書きされたスクロールバーをデフォルトのやつに戻すやつ。
+
 # Install
 
 - Install [Tampermonkey](https://www.tampermonkey.net)
